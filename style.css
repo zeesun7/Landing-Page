@@ -1,3 +1,7 @@
 .container1 {
     display: flex;
 }
+
+ul {
+    display: flex;
+}
