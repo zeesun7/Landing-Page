@@ -27,8 +27,11 @@ h1 {
 
 .container2 {
     display: flex;
+    background-color: #1f2937;
 }
 
 .container3 {
     width: 200px;
+    color: white;
+    margin-left: 50px;
 }
