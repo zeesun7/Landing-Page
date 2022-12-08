@@ -1,6 +1,7 @@
 .container1 {
     display: flex;
     background-color: #1f2937;
+    color: white;
 }
 
 ul {
@@ -11,4 +12,8 @@ ul {
 
 li {
     margin-left: 10px;
+}
+
+h1 {
+    margin-left: 20px;
 }
