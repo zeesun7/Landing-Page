@@ -15,6 +15,16 @@ li {
 }
 
 h1 {
-    margin-left: 20px;
+    margin-left: 50px;
     font-size: medium;
+}
+
+#firstpic {
+    width: 400px;
+    height: 200px;
+    display: flex;
+}
+
+.container2 {
+    display: flex;
 }
