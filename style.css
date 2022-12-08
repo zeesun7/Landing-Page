@@ -28,3 +28,7 @@ h1 {
 .container2 {
     display: flex;
 }
+
+.container3 {
+    width: 200px;
+}
