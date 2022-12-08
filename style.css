@@ -1,8 +1,14 @@
 .container1 {
     display: flex;
+    background-color: #1f2937;
 }
 
 ul {
     display: flex;
     list-style: none;
+    margin-left: 600px;
+}
+
+li {
+    margin-left: 10px;
 }
