@@ -80,7 +80,10 @@ button {
 
 .quote {
     background-color: #e5e7eb;
-    padding-left: 400px;
-    padding-right: 400px;
+    padding: 40px 250px;
+    font-style: italic;
+    color: #1f2937;
+    font-size: 36px;
+    
 }
 
