@@ -52,5 +52,19 @@ button {
 .pics {
     width: 100px;
     height: 100px;
-    display: flex;
 }
+
+.image-text {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.info {
+    max-width: 100px;
+}
+
+.text {
+    text-align: center;
+}
+
