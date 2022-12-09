@@ -50,8 +50,9 @@ button {
 }
 
 .pics {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+    border-radius: 25px;
 }
 
 .image-text {
@@ -61,7 +62,7 @@ button {
 }
 
 .info {
-    max-width: 100px;
+    max-width: 150px;
 }
 
 .text {
