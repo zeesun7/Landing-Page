@@ -48,3 +48,8 @@ button {
     color: white;
     padding: 5px 15px;
 }
+
+.pics {
+    width: 100px;
+    height: 100px;
+}
