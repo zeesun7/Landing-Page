@@ -22,7 +22,8 @@ h1 {
 #firstpic {
     width: 400px;
     height: 200px;
-    margin-left: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }
 
 .container2 {
@@ -31,7 +32,7 @@ h1 {
 }
 
 .container3 {
-    width: 200px;
+    width: 250px;
     color: white;
     margin-left: 200px;
 }
