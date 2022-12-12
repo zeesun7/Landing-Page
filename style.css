@@ -47,6 +47,7 @@ button {
     border-radius: 8px;
     color: white;
     padding: 5px 15px;
+    border-color: #1f2937;
 }
 
 .pics {
@@ -96,11 +97,25 @@ button {
 .container4 {
     display: flex;
     background-color: #3882f6;
-    height: 200px;
+    height: 100px;
     width: 800px;
+    margin-left: 215px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 40px;
 }
 
 #button2 {
     max-height: 30px;
+    margin-left: 50px;
+    border-color: white;
 }
+
+#footer-heading {
+    font-weight: bold;
+}
+
 
